@@ -1,0 +1,2 @@
+# Parsiq-101-working-with-NFTs
+Parsiq is a blockchain monitoring and workflow automation that has easy setup and perfect tools. First, I create a trigger to monitor CryptoassaultunitNFTs, an innovative MMO strategy blockchain game that is a play-to-earn (ASLT token to earn), and its recent development and new Cryptocommnaders NFT has attracted many users. Secondly, I use Parsiq tools to analyze UniswapV3 positions by monitoring V3positionsNFT and use this analysis for a good decision on the Uniswap trading.
